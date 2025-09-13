@@ -8,3 +8,6 @@ let shoppingList = [
 addItem("Pan", 1);
 removeItem("Leche");
 updateItem("Pan", 3);
+console.log (shoppingList);
+
+
