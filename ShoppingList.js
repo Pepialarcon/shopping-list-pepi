@@ -6,4 +6,5 @@ let shoppingList = [
     }
 ];
 addItem("Pan", 1);
-removeItem ("Leche");
+removeItem("Leche");
+updateItem("Pan", 3);
